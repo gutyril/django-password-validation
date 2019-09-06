@@ -1,7 +1,6 @@
-django_password_validation.egg-info/
-htmlcov/
-.tox/
-doc/_build/
-dist/
-.coverage
-password_validation/test/test.sqlite
+*.pyc
+csv/
+www/static/
+.idea/
+*.DS_Store
+
